@@ -12,6 +12,7 @@
 
 
 ## url
+- 신예원 : https://github.com/Syewon/practice
 - 이도형 : https://github.com/Shape2ee/webPractice
 - 이윤진 : https://github.com/nmgvnm/grid_css
 - 이주현 : https://github.com/zuzzang0824/practice
