@@ -12,5 +12,12 @@
 
 
 ## url
-- 김미리 : https://github.com/kimmiri1234
+
 - 이윤진 : https://github.com/nmgvnm/grid_css
+- 이주현 : https://github.com/zuzzang0824/practice
+- 정동재 : https://github.com/dock6398/gridlayoutEx
+- 원서영 : https://github.com/WSeoyoung/practice
+- 김나연 : https://github.com/nayeon000/practice
+- 서리미 :  https://github.com/tjflal/grid-css
+- 강준모 : https://github.com/Junmovo/practice 
+- 허다영 : https://github.com/zeroall-h
