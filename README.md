@@ -12,7 +12,7 @@
 
 
 ## url
-- 인효진 : https://github.com/inhyojin/url.git
+- 인효진 : https://github.com/inhyojin/practice
 - 신예원 : https://github.com/Syewon/practice
 - 이도형 : https://github.com/Shape2ee/webPractice
 - 이윤진 : https://github.com/nmgvnm/grid_css
