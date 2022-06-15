@@ -12,6 +12,8 @@
 
 
 ## url
+
+- 김나연 : https://github.com/nayeon000/practice
 - 서리미 :  https://github.com/tjflal/grid-css
 - 강준모 : https://github.com/Junmovo/practice 
 - 허다영 : https://github.com/zeroall-h
