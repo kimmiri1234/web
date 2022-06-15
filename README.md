@@ -12,7 +12,7 @@
 
 
 ## url
-
+- 원서영 : https://github.com/WSeoyoung/practice.git
 - 김나연 : https://github.com/nayeon000/practice
 - 서리미 :  https://github.com/tjflal/grid-css
 - 강준모 : https://github.com/Junmovo/practice 
