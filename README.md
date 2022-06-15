@@ -13,4 +13,4 @@
 
 ## url
 - 김미리 : https://github.com/kimmiri1234
-- 이도형 :  https://github.com/Shape2ee/url
+- 이도형 : https://github.com/Shape2ee/webPractice
