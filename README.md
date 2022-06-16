@@ -12,4 +12,4 @@
 
 
 ## url
-- 조현비 : https://github.com/CHOHYUNBEE
+- 조현비 : https://github.com/CHOHYUNBEE/grid_Website
