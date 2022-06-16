@@ -1,6 +1,6 @@
-# web
+# practice url
 
-이 문서에 github url을 남겨주세요.:smile:
+github url을 남겨주세요.:smile:
 
 > 마크 다운 작성 참고 : [https://github.com/tchapi/markdown-cheatsheet](https://github.com/tchapi/markdown-cheatsheet)
 
