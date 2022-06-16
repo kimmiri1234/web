@@ -12,6 +12,7 @@
 
 
 ## url
+- 조현비 : https://github.com/CHOHYUNBEE/grid_Website
 - 인효진 : https://github.com/inhyojin/practice
 - 신예원 : https://github.com/Syewon/practice
 - 이도형 : https://github.com/Shape2ee/webPractice
@@ -23,3 +24,4 @@
 - 서리미 : https://github.com/tjflal/grid-css
 - 강준모 : https://github.com/Junmovo/practice 
 - 허다영 : https://github.com/zeroall-h
+
