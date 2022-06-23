@@ -12,7 +12,7 @@
 
 
 ## url
-- 정동재 : https://github.com/dock6398/gridlayoutEx
+- 정동재 : https://github.com/dock6398/UrlEx.git
 - 원서영 : https://github.com/WSeoyoung/practice.git
 - 김나연 : https://github.com/nayeon000/practice
 - 서리미 :  https://github.com/tjflal/grid-css
