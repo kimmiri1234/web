@@ -12,7 +12,7 @@
 
 
 ## url
-- 조현비 : https://github.com/CHOHYUNBEE/DYAMI_web
+- 조현비 : https://github.com/CHOHYUNBEE/EZEN_webPractice
 - 인효진 : https://github.com/inhyojin/practice
 - 신예원 : https://github.com/Syewon/practice
 - 이도형 : https://github.com/Shape2ee/webPractice
