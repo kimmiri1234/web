@@ -9,10 +9,10 @@ github url을 남겨주세요.:smile:
 > `머릿말 표기 : - `
 
 ## url
+- 조현비 : https://github.com/CHOHYUNBEE/EZEN_webPractice
 - 정동재 : https://github.com/dock6398/UrlEx
 - 원서영 : https://github.com/WSeoyoung/practice
 - 허유진 : https://github.com/uzin02/practice
-- 조현비 : https://github.com/CHOHYUNBEE/grid_Website
 - 인효진 : https://github.com/inhyojin/practice
 - 신예원 : https://github.com/Syewon/practice
 - 이도형 : https://github.com/Shape2ee/webPractice
